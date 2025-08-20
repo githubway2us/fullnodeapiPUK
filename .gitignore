@@ -1,2 +1,3 @@
 venv/
-*.deb
+*.pyc
+__pycache__/
